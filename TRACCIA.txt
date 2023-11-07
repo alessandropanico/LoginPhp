@@ -1,0 +1,1 @@
+In questo codice andiam o a definire un controllo login di un utente registrato su un database con i campi "Nome" e "Password", non vado a decriptare la password con MD5 per dare un "principio" dell'esercizio in quanto questo va definito anche nel database. Questo esercizio è la "base" di un codice che può diventare più complesso. Come database ho usato "MySQL Workbench".
